@@ -1,8 +1,94 @@
 {
-  "posts": [
+  "farmers": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "f1",
+      "age":"30",
+      "gender":"male",
+      "village":"Devanahalli",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 2,
+      "name": "f2",
+      "age":"32",
+      "gender":"female",
+      "village":"Hosakote",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 3,
+      "name": "f1",
+      "age":"30",
+      "gender":"male",
+      "village":"Hosakote",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 4,
+      "name": "abcd xyz",
+      "age":"30",
+      "gender":"male",
+      "village":"Devanahalli",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 5,
+      "name": "fsdfdsf",
+      "age":"30",
+      "gender":"male",
+      "village":"Devanahalli",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 6,
+      "name": "dsvfvefvev",
+      "age":"30",
+      "gender":"male",
+      "village":"Hosakote",
+      "phone":"99000909090"
+      
+    },
+    {
+      "id": 7,
+      "name": "test_name",
+      "age":"30",
+      "gender":"male",
+      "village":"Nelamangala",
+      "phone":"99000909070"
+      
+    },
+    {
+      "id": 8,
+      "name": "f1",
+      "age":"30",
+      "gender":"male",
+      "village":"Nelamangala",
+      "phone":"99000909080"
+      
+    },
+    {
+      "id": 9,
+      "name": "f1dvdf",
+      "age":"30",
+      "gender":"female",
+      "village":"Nelamangala",
+      "phone":"99000909092"
+      
+    },
+    {
+      "id": 10,
+      "name": "dscsdvdfv",
+      "age":"55",
+      "gender":"female",
+      "village":"Nelamangala",
+      "phone":"99000909010"
+      
     }
   ],
   "profile": {
